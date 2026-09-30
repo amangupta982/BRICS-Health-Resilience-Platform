@@ -1,0 +1,6 @@
+{
+  "name": "BRICS Health Resilience Platform — Epidemiological Triage",
+  "description": "Elite AI Epidemiological Analyst converting unstructured, messy rural health worker dispatches into structured JSON crisis telemetry and immediate strategic interventions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
